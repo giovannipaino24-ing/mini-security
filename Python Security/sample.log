@@ -1,0 +1,5 @@
+2025-11-23 12:00:01 [ERROR] webserver01: Connection from 10.0.2.15 refused - too many requests
+2025-11-23 12:00:05 [INFO] webserver01: GET /index.html from 10.0.2.20
+2025-11-23 12:01:10 [WARN] auth01: Failed login for user 'admin' from 192.168.56.100
+2025-11-23 12:01:20 [ERROR] app01: Unexpected exception - trace id abc123
+2025-11-23 12:02:00 [INFO] webserver01: Connection from 10.0.2.99 handled
